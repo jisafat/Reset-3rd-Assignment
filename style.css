@@ -1,0 +1,15 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header{
+    margin-top: 20px;
+    background-color: whitesmoke;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.first{
+    /* background-image: url(images/banner.png); */
+}
+.container{
+    /* background-image: url(images/banner.png); */
+}
